@@ -30,21 +30,21 @@ python gen.py -i test/2.jpeg
 
 ![](test/2.jpeg)
 
-![](test/2_out.jpg)
+![](test/2_out.png)
 
 ![](test/3.jpeg)
 
-![](test/3_out.jpg)
+![](test/3_out.png)
 
 ![](test/4.jpeg)
 
-![](test/4_out.jpg)
+![](test/4_out.png)
 
 ![](test/5.jpeg)
 
-![](test/5_out.jpg)
+![](test/5_out.png)
 
 ![](test/6.jpeg)
 
-![](test/6_out.jpg)
+![](test/6_out.png)
 
